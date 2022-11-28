@@ -1,0 +1,188 @@
+nav.navbar {
+    background-color: #1a374a;
+}
+div.container > div.row .bg-light {
+	background-color: #1a374a;
+}
+img.logo{
+	   width: 70px;
+    height: auto;
+}
+nav > a{
+	color: #fff;
+	margin-left: 10px;
+}
+img.navbar-brand{
+	margin-left: 10%;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:36px;
+	color: #FFF;
+}
+#navbar-landing{
+	margin-left: 10%;
+}
+#navbar-admin{
+	margin-left: 45%;
+}
+
+#bg-light{
+	background-color: #ffa826;
+    border-color: #007bff;
+}
+
+div.sub{
+	width:100%; height:auto; position:absolute;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:auto;
+    left:0;
+    right:0;
+    top:50px;
+    bottom:0;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+li.nav-item{
+	margin: 5px;
+}
+button.btn-primary{
+	background-color: #ffa826;
+    color: white;
+    border-color: #007bff;
+}
+#detail-pekael{
+	margin-top: 50px;
+}
+.garis1{
+	width: 50px;
+	border-top: 3px solid #1a374a;
+	margin-top: -30px;
+}
+.pekael-about{
+	font-size: 20px;
+}
+div.about{
+	width:80%;
+	color: #1a374a;
+	margin-bottom: 40px;
+}
+.tujuan{
+	color: #ffa826;
+}
+.garis2{
+	width: 50px;
+	border-top: 3px solid #ffa826;
+	margin-top: -30px;
+}
+    /* tambahan */
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+div#containerjuga {
+   min-height:100%;
+   position:relative;
+}
+    /* tambahan */
+div#body {
+   padding:10px;
+   padding-bottom:10%;   /* Height of the footer */
+}
+footer#footer{
+   position:relative;
+	margin-top: 50px;
+    width: 100%;
+    height:10%; /* Height of the footer */
+    /* tambahan */
+   position:absolute;
+   bottom:0;
+    /* tambahan */
+
+}
+div#select{
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+div#search{
+	padding-top: 15px;
+}
+div#navbarNav{
+	right: 50px;
+	text-align: right;
+	color: #fff;
+}
+
+li.nav-item > a {
+	color: #ffffff;
+	padding-right: .5rem;
+    padding-left: .5rem;
+    text-decoration: none;
+}
+
+li.nav-item > a:hover{
+	color: #ffa826;
+}
+
+ul > li > a{
+	color: #ffffff;
+}
+
+ul > li > a:hover{
+	color: #ffa826;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+thead#bg-dark{
+	background-color: #1a374a;
+	color: #ffa826;
+}
+
+#notifications {
+    cursor: pointer;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 0;
+    right: 0;
+    top: 50px;
+    width: 400px;
+    height: auto;
+    bottom: 0;
+
+}
+
+.alert-primary {
+    color: #004085;
+    background-color: #ffa826;
+    text-align: center;
+    border-color: #007bff;
+    padding: 0px;
+    padding-top: 5px;
+}
+
+.text-light{
+    font-size: 2rem;
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 450px) {
+    .text-light{
+          font-size: 14px;
+    }
+    .card-img-top{
+        height: 350px;
+    .h {
+        font-size:12px;
+        font-weight:bold;
+    }
+    }
+}

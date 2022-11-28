@@ -1,0 +1,92 @@
+nav.navbar {
+    background-color: #1a374a;
+}
+div.container > div.row .bg-light {
+	background-color: #1a374a;
+}
+.body-login{
+	background-color: #1a374a;
+}
+img.logo{
+	   width: 70px;
+    height: auto;
+}
+nav > a{
+	color: #fff;
+}
+a.navbar-brand{
+	margin-left: 10%;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:36px;
+	color: #FFF;
+}
+#navbar-admin{
+	margin-left: 45%;
+}
+div.sub{
+	width:100%; height:auto; position:absolute;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:auto;
+    left:0;
+    right:0;
+    top:50px;
+    bottom:0;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+li.nav-item{
+	margin: 5px;
+}
+button.btn-primary{
+	background-color: #ffa826;
+    color: white;
+    border-color: #007bff;
+}
+#detail-pekael{
+	margin-top: 50px;
+}
+.garis1{
+	width: 50px;
+	border-top: 3px solid #1a374a;
+	margin-top: -30px;
+}
+.pekael-about{
+	font-size: 20px;
+}
+div.about{
+	width:80%;
+	color: #1a374a;
+	margin-bottom: 40px;
+}
+.tujuan{
+	color: #ffa826;
+}
+.garis2{
+	width: 50px;
+	border-top: 3px solid #ffa826;
+	margin-top: -30px;
+}
+footer#footer{
+	margin-top: 50px;
+    width: 100%;
+}
+div#select{
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+div#search{
+	padding-top: 15px;
+}
+div#navbarNav{
+	right: 50px;
+	text-align: right;
+	color: #fff;
+}
+.navbar-nav .nav-link {
+	color: #ffffff;
+}
