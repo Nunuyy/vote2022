@@ -175,7 +175,7 @@
                 <?php $totalO=0; $no=1; foreach ($osis_s as $row) { ?>
                         <tr>
                             <!-- <td><?php echo $no;?></td> -->
-                            <td><?php echo $row['id']-7;?></td>
+                            <td><?php echo $row['id']-5;?></td>
                             <td><?php echo $row['nama'];?></td>
                             <td><?php // echo "S:".$row['jumlah_suara_osis_s'];?>
                               
