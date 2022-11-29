@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://10.127.2.241/vote_fin/';
-$config['base_url'] = 'https://localhost/vote_2021/';
+$config['base_url'] = 'https://localhost/vote2022/';
 
 /*
 |--------------------------------------------------------------------------
