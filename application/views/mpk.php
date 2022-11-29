@@ -22,7 +22,7 @@
         </div>
       </div>
       */ ?>
-      <center><H2 >Pilih Ketua MPK Pilihan Anda </H2></center>
+      <center><H2>Pilih Ketua MPK Pilihan Anda </H2></center>
       <br>
       <div class="row">
           <?php foreach ($kandidat as $row):
