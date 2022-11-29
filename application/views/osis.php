@@ -9,8 +9,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="shortcut icon" href="https://localhost/vote_2021/resources/img/favicon.png" type="image/x-icon">
-  <link rel="icon" href="https://localhost/vote_2021/resources/img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://localhost/vote2022/resources/img/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://localhost/vote2022/resources/img/favicon.png" type="image/x-icon">
 
    
     <link rel="stylesheet" href="https://vote.smkn2sumedang.sch.id/resources/style.css">
@@ -23,7 +23,7 @@
 </head>
 <body>
 <div id="containerjuga">
-<input type="hidden" id="base_url" value="https://localhost/vote_2021/">
+<input type="hidden" id="base_url" value="https://localhost/vote2022/">
 
 
 
@@ -56,7 +56,7 @@
                   <div class="custom-control custom-radio custom-control-inline"> 
                       <input type="radio" required class="custom-control-input " name="kandidat_osis" id="kandidat_6" VALUE="6"/>
                       <label for="kandidat_6" class="custom-control-label font-weight-bold" for="customRadio2"> Amalia Dwi Noavianty<br> <br>
-                      <img class="card-img-top" width="200px" src="https://localhost/vote_2021/resources/img/kandidat_/osis1.jpg" alt="Card image cap"> </label>
+                      <img class="card-img-top" width="200px" src="https://localhost/vote2022/resources/img/kandidat_/osis1.jpg" alt="Card image cap"> </label>
                   </div>
               </div>
             </div>          
@@ -70,7 +70,7 @@
                   <div class="custom-control custom-radio custom-control-inline"> 
                       <input type="radio" required class="custom-control-input " name="kandidat_osis" id="kandidat_7" VALUE="7"/>
                       <label for="kandidat_7" class="custom-control-label font-weight-bold" for="customRadio2"> Lea Ikhlas Andrea <br> <br>
-                      <img class="card-img-top" width="200px" src="https://localhost/vote_2021/resources/img/kandidat_/osis2.jpg" alt="Card image cap"> </label>
+                      <img class="card-img-top" width="200px" src="https://localhost/vote2022/resources/img/kandidat_/osis2.jpg" alt="Card image cap"> </label>
                   </div>
               </div>
             </div>          
@@ -84,7 +84,7 @@
                   <div class="custom-control custom-radio custom-control-inline"> 
                       <input type="radio" required class="custom-control-input " name="kandidat_osis" id="kandidat_8" VALUE="8"/>
                       <label for="kandidat_8" class="custom-control-label font-weight-bold" for="customRadio2"> Cica Apriyani <br> <br>
-                      <img class="card-img-top" width="200px" src="https://localhost/vote_2021/resources/img/kandidat_/osis3.jpg" alt="Card image cap"> </label>
+                      <img class="card-img-top" width="200px" src="https://localhost/vote2022/resources/img/kandidat_/osis3.jpg" alt="Card image cap"> </label>
                   </div>
               </div>
             </div>          
@@ -98,7 +98,7 @@
                   <div class="custom-control custom-radio custom-control-inline"> 
                       <input type="radio" required class="custom-control-input " name="kandidat_osis" id="kandidat_9" VALUE="9"/>
                       <label for="kandidat_9" class="custom-control-label font-weight-bold" for="customRadio2"> Erina Tasya Sonjaya <br> <br>
-                      <img class="card-img-top" width="200px" src="https://localhost/vote_2021/resources/img/kandidat_/osis4.jpg" alt="Card image cap"> </label>
+                      <img class="card-img-top" width="200px" src="https://localhost/vote2022/resources/img/kandidat_/osis4.jpg" alt="Card image cap"> </label>
                   </div>
               </div>
             </div>          
@@ -118,7 +118,7 @@
                   <div class="custom-control custom-radio custom-control-inline"> 
                       <input type="radio" required class="custom-control-input " name="kandidat_osis" id="kandidat_10" VALUE="10"/>
                       <label for="kandidat_10" class="custom-control-label font-weight-bold" for="customRadio2"> Naura Dwi Apriani <br> <br>
-                      <img class="card-img-top" src="https://localhost/vote_2021/resources/img/kandidat_/osis5.jpg" alt="Card image cap"> </label>
+                      <img class="card-img-top" src="https://localhost/vote2022/resources/img/kandidat_/osis5.jpg" alt="Card image cap"> </label>
                   </div>
               </div>
             </div>          
@@ -155,10 +155,10 @@
                 <br>
                 <h5 style="color: #ffffff; text-align: center;"> SUPPORT </h5>
                 <hr class="line mt-0 mx-0">
-                <img class="logo" src="https://localhost/vote_2021/resources/img/logo smk.png">
-                <img class="logo" src="https://localhost/vote_2021/resources/img/rpl.png">
-                <img class="logo" src="https://localhost/vote_2021/resources/img/logo mpk.png">
-                <img class="logo" src="https://localhost/vote_2021/resources/img/logo_osis.png">
+                <img class="logo" src="https://localhost/vote2022/resources/img/logo smk.png">
+                <img class="logo" src="https://localhost/vote2022/resources/img/rpl.png">
+                <img class="logo" src="https://localhost/vote2022/resources/img/logo mpk.png">
+                <img class="logo" src="https://localhost/vote2022/resources/img/logo_osis.png">
             </div>
             </div>
         </div>
@@ -173,13 +173,13 @@
 </footer>
 
 </div><!-- div#containerjuga -->
-    <script src="https://localhost/vote_2021/resources/js/jquery-3.2.1.min.js"></script>
-    <script src="https://localhost/vote_2021/resources/js/popper.min.js"></script>
-    <script src="https://localhost/vote_2021/resources/bootstrap/js/bootstrap.min.js"></script>
-    <script src="https://localhost/vote_2021/resources/datatables/jquery.dataTables.min.js"></script>
-    <script src="https://localhost/vote_2021/resources/datatables/dataTables.bootstrap4.min.js"></script>
-    <script src="https://localhost/vote_2021/resources/js/main.js?v=1.53"></script>
-    <script src="https://localhost/vote_2021/resources/select2/dist/js/select2.min.js" ></script>
+    <script src="https://localhost/vote2022/resources/js/jquery-3.2.1.min.js"></script>
+    <script src="https://localhost/vote2022/resources/js/popper.min.js"></script>
+    <script src="https://localhost/vote2022/resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://localhost/vote2022/resources/datatables/jquery.dataTables.min.js"></script>
+    <script src="https://localhost/vote2022/resources/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="https://localhost/vote2022/resources/js/main.js?v=1.53"></script>
+    <script src="https://localhost/vote2022/resources/select2/dist/js/select2.min.js" ></script>
     
     
     <script>
